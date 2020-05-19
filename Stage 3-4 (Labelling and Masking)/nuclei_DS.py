@@ -67,5 +67,5 @@ def end_timer(start_time):
 
 if __name__ == '__main__':
 	data_folder = 'data'
-	format = '.png'
+	format = '.tif'
 	process(data_folder, format)
